@@ -320,7 +320,7 @@ def format_ticks(x, pos):
 def remove_linear_trend(data):
     
     """
-    Purpose: the SSH obs from swot has a trend within its 50 km swath. This function remove it.
+    Purpose: the SSH obs from swot has a trend within its 50 km swath. This function removes it.
     ---------
     
     Input: The 2d SSH anomaly (SSH_karin - SSH_karin.mean())
