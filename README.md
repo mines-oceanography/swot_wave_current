@@ -2,7 +2,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16905591.svg)](https://doi.org/10.5281/zenodo.16905591)
 
 
-# Source code for 
+# Source code and data for 
 Villas Bôas, A. B., Marechal, G., and Bohé. Observing Interactions Between Waves, Winds, and Currents from SWOT. Geophysical Research Letters, Accepted.
 
 # Abstract
