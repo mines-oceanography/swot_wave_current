@@ -10,6 +10,9 @@ authors:
     family-names: Marechal
     affiliation: Laboratoire d'Etudes en Géophysique et Océanographie Spatiales
     orcid: https://orcid.org/0000-0003-0378-5694
+  - given-names: Alejandro
+    family-names: Bohé
+    affiliation: Centre national d'études spatiales
 version: 0.1
 doi: 10.5281/zenodo.16905591
 date-released: 2025-08-19
